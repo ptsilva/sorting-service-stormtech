@@ -59,8 +59,8 @@ build/coverage-html/index.html
 | ```app/Providers/AppServiceProvider.php```   | Dependency Injection. |
 | ```app/Http/Controllers/SortController.php```   | Thin HTTP Layer. |
 | ```app/Http/ServiceLayer/SortService.php``` | Thin Service Layer. |
-| ```app/Service```    | main source, may be distributed without the REST service . |
-| ```tests```    | tests folder . |
+| ```app/Service/```    | main source, may be distributed without the REST service . |
+| ```tests/```    | tests folder . |
 
 ## Code Style Fixer
 Run
