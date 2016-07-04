@@ -56,7 +56,7 @@ build/coverage-html/index.html
  
 | File/Folder | Description |
 | ------ | ----------- |
-| ```/app/Providers/AppServiceProvider.php```   | Dependency Injection. |
+| ```app/Providers/AppServiceProvider.php```   | Dependency Injection. |
 | ```app/Http/Controllers/SortController.php```   | Thin HTTP Layer. |
 | ```app/Http/ServiceLayer/SortService.php``` | Thin Service Layer. |
 | ```app/Service```    | main source, may be distributed without the REST service . |
